@@ -17,8 +17,13 @@ The project uses a dataset with labeled text for toxicity categories. The datase
 
 ---
 
-## Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/YourGitHubUsername/text-sentiment-analysis.git
-   cd text-sentiment-analysis
+## Technology Stack  
+- **Programming Language**: Python  
+- **Libraries & Frameworks**:  
+  - TensorFlow  
+  - Pandas  
+  - NumPy  
+  - Gradio  
+- **Development Tools**: Jupyter Notebook  
+
+---
