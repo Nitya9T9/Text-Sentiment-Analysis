@@ -24,6 +24,4 @@ The project uses a dataset with labeled text for toxicity categories. The datase
   - Pandas  
   - NumPy  
   - Gradio  
-- **Development Tools**: Jupyter Notebook  
-
----
+- **Development Tools**: Jupyter Notebook
